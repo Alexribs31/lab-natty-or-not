@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Inclusão e Cidadania Digital para pessoas da Geração X (Ebook)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este é um ebook destinado para pessoas da Geração X com o objetivo de ajuda-los a melhorar sua interação com aspectos básico de tecnologia. São abordados 3 pilares no ebook. 1. Introdução a Tecnologia . 2. Redes socias 3. Conceitos Básicos de Cybersegurança.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGpt , Perplexity, Claude 3, D-ID studio, Microsoft Designer, Eleven Labs , Adobe Shasta , Canva, 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisei como criar um material que fosse simples e o mais intuitivo possível para o público alvo. Para isso, usei as informações do ChatGpt, Claude e Perplexity. Fiz a curadoria do que era realmente relevante e criei o percurso  de conteúdo. Para tornar o PDF mais lúdico, Criei o Avatar no Microsoft Designer. Subi para o D-ID studio e adicionei o áudio. Com os 2 videos prontos, Subi para o Youtube e criei os huperlinks dentro do ebook. Para as Thumbnails e edição do vídeo , usei o Canva. Fiz uma pesquisa de links que poderiam ser úteis de cursos de aprofundamento e inseri tanto nas sessões do ebook, quanto na página de sugestão de cursos gratuitos de aprofundamento.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresentei o material para um grupo de aproximadamente 20 senhoras com idade entre 45 e 70 anos e fiz uma ofinica prática para uso das tecnologias apresentadas no ebook. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O processo criativo e a capacidade de criar algo disruptivo é evidente no meomento que conhecemos as ferramentas de IA que estão a nossa disposição. Foi a primeira vez que me aventurei a fazer algo fora do convencional "word" e as descobertas foram muito prazerozas. Estou entusiamado de trazer essa possobilidade para a educação que é minha área de atuação.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
