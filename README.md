@@ -15,3 +15,4 @@ Apresentei o material para um grupo de aproximadamente 20 senhoras com idade ent
 ## 💭 Reflexão (Opcional)
 O processo criativo e a capacidade de criar algo disruptivo é evidente no meomento que conhecemos as ferramentas de IA que estão a nossa disposição. Foi a primeira vez que me aventurei a fazer algo fora do convencional "word" e as descobertas foram muito prazerozas. Estou entusiamado de trazer essa possobilidade para a educação que é minha área de atuação.
 
+[(PDF) Inclusão e cidadania digital para pessoas da Geração X.pdf](https://github.com/user-attachments/files/15753201/PDF.Inclusao.e.cidadania.digital.para.pessoas.da.Geracao.X.pdf)
